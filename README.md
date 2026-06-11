@@ -36,8 +36,14 @@ const hootsuki = {
 [![My Skills](https://skillicons.dev/icons?i=c,java,lua,git,linux,vscode)](https://skillicons.dev)
 
 ---
+## 📊 GitHub Stats
 
-> *"A única diferença entre o caos e o código é a indentação."*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henry-Biancchi&show_icons=true&theme=tokyonight&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-Biancchi&layout=compact&theme=tokyonight&locale=pt-br)
+
+![Streak](https://streak-stats.demolab.com?user=Henry-Biancchi&theme=tokyonight&locale=pt_BR)
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henry-Biancchi&show_icons=true&theme=tokyonight&locale=pt-br)
+> *"A única diferença entre o caos e o código é a indentação."*
+
