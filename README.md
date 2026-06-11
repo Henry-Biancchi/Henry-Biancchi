@@ -38,3 +38,6 @@ const hootsuki = {
 ---
 
 > *"A única diferença entre o caos e o código é a indentação."*
+
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henry-Biancchi&show_icons=true&theme=tokyonight&locale=pt-br)
