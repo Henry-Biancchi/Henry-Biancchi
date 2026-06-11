@@ -2,7 +2,7 @@
 
 ### 🌙 *"Build worlds. Write code. Leave marks."*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&pause=1200&color=C9A7E8&center=true&vCenter=true&width=900&lines=Estudante+de+Eng.+da+Computação+·+CESUPA;Criador+de+mundos+e+dungeon+crawler+em+C;Worldbuilder+de+Sylunna+🌙;Entusiasta+de+Linux+e+sistemas+embarcados)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&pause=1200&color=C9A7E8&center=true&vCenter=true&width=900&lines=Estudante+de+Eng.+da+Computação+·+CESUPA;Criador+de+mundos+e+dungeon+crawler+em+C;Worldbuilder+de+SkyLunna+🌙;Entusiasta+de+Linux+e+sistemas+embarcados)](https://git.io/typing-svg)
 
 ---
 
