@@ -1,4 +1,4 @@
-# ✨ Hootsuki · Henry Biancchi ✨
+# ☀️ Hootsuki · Henry Biancchi 🌕
 
 ### 🌙 *"Build worlds. Write code. Leave marks."*
 
